@@ -18,6 +18,13 @@ Some Projects or Things I built while learning App Development using Java,XML + 
 <br/>
 <br/>
 
+# Tic Tac Toe
+
+<img  src="https://github.com/AwaisOem/Native-App-Development-Learning/assets/95477446/a1a63371-c3dd-4bc4-80f3-7e63848fa0b7" height="500" />
+
+<br/>
+<br/>
+
 # Layout Practice
 
 <img  src="https://github.com/AwaisOem/Native-App-Development-Learning/assets/95477446/7f44a717-54e5-461c-b303-b3b6e4e1836b" height="500" />
