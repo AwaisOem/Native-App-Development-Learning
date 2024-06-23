@@ -1,5 +1,6 @@
 # Native-App-Development-Learning
-Some Projects or Things I built while learning App Development using Java,XML + Firebase
+Some Projects or Things I built while learning App Development using Java,XML + Firebase <br/>
+This is Grind Behind Learning (BTS) of Native App Dev
 <br/>
 <br/>
 # Form + Firebase Assignment
@@ -25,9 +26,15 @@ Some Projects or Things I built while learning App Development using Java,XML + 
 <br/>
 <br/>
 
-# Layout Practice
+# Layout Practice (Just Structure)
 
 <img  src="https://github.com/AwaisOem/Native-App-Development-Learning/assets/95477446/7f44a717-54e5-461c-b303-b3b6e4e1836b" height="500" />
+<img  src="https://github.com/AwaisOem/Native-App-Development-Learning/assets/95477446/edcc5c73-9df5-443b-9d63-f67b20168117" height="500" />
+<img  src="https://github.com/AwaisOem/Native-App-Development-Learning/assets/95477446/8d18d18f-870f-4c68-90c6-5a6f862bd584" height="500" />
+<img  src="https://github.com/AwaisOem/Native-App-Development-Learning/assets/95477446/ecc952ca-3a06-41c2-8cd9-7341fcd88307" height="500" />
+<img  src="https://github.com/AwaisOem/Native-App-Development-Learning/assets/95477446/5c1872b4-df58-4fe1-aa64-4d420ca4ed9f" height="500" />
+<img  src="https://github.com/AwaisOem/Native-App-Development-Learning/assets/95477446/236d7dfe-2fc2-4888-bb43-78f1a36a15b5" height="500" />
+<img  src="https://github.com/AwaisOem/Native-App-Development-Learning/assets/95477446/33a71bd2-c19e-4388-a904-f2527481c45e" height="500" />
 
 <br/>
 <br/>
